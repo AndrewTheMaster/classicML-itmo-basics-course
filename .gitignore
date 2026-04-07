@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+
+# Common data artifacts
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.npy
+*.npz
