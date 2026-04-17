@@ -1,0 +1,5 @@
+
+![Рисунок 2. Boxplot Dalc и Walc по полу](report_images/02_notebook_graph_cell8_out1.png)
+**Рисунок 2.** Boxplot уровней `Dalc` и `Walc` в разрезе пола.
+
+Вывод: у мужской группы медианные и верхние квартильные значения `Walc` выше.
